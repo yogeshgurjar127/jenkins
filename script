@@ -1,0 +1,8 @@
+ls
+cd /var/lib/
+ls
+cd /opt/
+mkdir jenkins
+touch test.txt
+echo "this is test file" >> test.txt
+cat test.txt
